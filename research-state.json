@@ -9,14 +9,14 @@
  ],
  "current_phase": 7,
  "phase6_status": "COMPLETE (report business-opportunity-report-phase6-2026-10-13.md)",
- "current_execution_step": "7.3 competitor/pricing/new-entrant checks (7.1 and 7.2 COMPLETE)",
- "last_saved_checkpoint": "2026-10-13 run3: Phase 7 discovery (7.1) + shortlist (7.2) complete",
+ "current_execution_step": "7.4 independent evidence audit of survivors M5,M9,M10,M12,M13 (7.3 COMPLETE)",
+ "last_saved_checkpoint": "2026-10-13 run3: Phase 7 step 7.3 complete",
  "persistence": {
   "canonical_branch": "research",
   "session_branch": "claude/determined-allen-zrr7gn",
   "flow": "session branch -> PR -> research (merge allowed, tested PR #1, #2 on 2026-10-13)",
   "cross_run_continuity": "VERIFIED in run 2: loaded origin/research checkpoint c8279d0 and resumed",
-  "last_verified_research_commit": "8a99446 (PR #4 merge, run 2)"
+  "last_verified_research_commit": "4fe1ed3 (PR #6, verified via GitHub API list_commits)"
  },
  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
  "research_gaps": [
@@ -28,12 +28,16 @@
   "used-equipment arbitrage"
  ],
  "pending_verification": [
-  "primary-page verification of all prices (WebFetch DNS failed run 2)",
-  "L2 POA/ITIN gate",
   "H6 NCAA data rights",
-  "monday.com marketplace manual check"
+  "M5 entrant founding dates/MRR",
+  "L2 POA/ITIN gate",
+  "primary-page verification of all prices (WebFetch DNS failed run 2)",
+  "M12 GIB thresholds",
+  "M9 beginner outcomes",
+  "monday.com marketplace manual check",
+  "primary pages unreachable (WebFetch DNS, proxy 403): all Phase 7 prices S-tier"
  ],
- "next_planned_task": "Phase 7 step 7.3: for M1-M13 check pricing/competitors/new-entrant evidence (<=2 searches each; retry WebFetch for primary pages); kill weak ones; then 7.4 audit, 7.5 red team, 7.6 score, 7.7 report",
+ "next_planned_task": "Phase 7 7.4: independent auditor re-checks survivors M5,M9,M10,M12,M13 (focus: recent-entrant outcomes, primary pricing, M5 niche variants); 7.5 red team; 7.6 score with frozen rubric; 7.7 report; then define Phase 8",
  "killed_phase6": [
   "L6",
   "L10",
@@ -70,5 +74,22 @@
   "M11 Vietnam/Indonesia e-invoice connector",
   "M12 Turkey e-Fatura front-end via integrator",
   "M13 custom MCP servers"
+ ],
+ "phase7_killed": [
+  "M1",
+  "M2",
+  "M3",
+  "M4",
+  "M6",
+  "M7",
+  "M8",
+  "M11"
+ ],
+ "phase7_survivors": [
+  "M5",
+  "M9",
+  "M10",
+  "M12",
+  "M13"
  ]
 }

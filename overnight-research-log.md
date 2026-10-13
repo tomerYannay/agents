@@ -47,3 +47,21 @@ Raw: A (Part 107 compliance pack; pen boxes; hobby-app MRR; used-equipment) · B
 Dropped at 7.2: dental parts (device gate), used lab equipment (gates/capital), used espresso machines, pen subscription box (thin margin, poor fit), hobby-app generic, used-equipment alert subscription (free tools), GEO India (cheap competitors, weak WTP), Telegram mini apps, India DPDP tools, subtitle QA.
 Shortlist M1-M13 listed in research-state.json (phase7_shortlist). Hints: M6 likely kill (Redo $0 representment); M3 crowded; M11/M12 need licence-gate check first.
 Note: Agent reports are unverified model output; claims such as Oneflare closure 30 Jun 2026 and Decree 254/2026 need verification in 7.3.
+
+## 2026-10-13 run 3 (cont.) -- Step 7.3 COMPLETE (deeper verification, 6 analysts, 9-17 extended searches each)
+Method limits: WebFetch DNS-fails and direct HTTP is proxy-blocked (not bypassed); evidence = search-result snippets. Tiers: P = vendor/regulator text visible in snippet (still second-hand), S = secondary, A = assumption, U = unknown. No candidate had any disclosed recent-entrant revenue (NONE FOUND across all 13).
+Persistence check: research head 4fe1ed3 verified via GitHub API (list_commits), git ls-remote had been blocked.
+- M1 Part 107 compliance: KILL. Logbook not mandated by Part 107 (S); AirData free-$14.99, DroneLog free, apps $4.99; Payhip product not found. Only niche left: Cat-4/over-people records (U).
+- M2 espresso parts kits: KILL. Espresso Parts kit $10.81 + wholesale/technician programme (P*), eBay 'cafeparts' 2.2K sold; no sourcing-cost edge from Israel.
+- M3 SaaS metrics tooling: KILL. Stripe analytics free, ChartMogul free tier, Baremetrics ~$49-75 (S); no entrant evidence.
+- M4 white-label AI review replies: KILL. Yelp policy (P): agents/resellers/software providers may not respond on client's behalf; Respond API partner-only. RightResponse already sells white-label; Google testing native AI replies.
+- M5 AI AP invoice capture for bookkeepers: WEAK (leaning KILL). Dext $17.70-19.20/client, AutoEntry from $12, Hubdoc bundled in Xero; flat-fee entrants Receiptflow (from GBP150/mo), Tofu ($79/$199) exist; founding dates/MRR unknown.
+- M6 chargeback niche: KILL. Redo $0 recovery (S), Chargeflow 25%, Disputifier 20% cap $250, Stripe Smart Disputes 30%.
+- M7 property-mgmt back office: KILL (borderline). Billee $9M+ seed; Buildium/AppFolio bundling AI; VA $8-14/hr alternative.
+- M8 UK/AU trade marketplace: KILL. ScaffLink (launched ~Mar 2026, 10-15% commission) is a live same-model competitor; Airtasker retired Oneflare 30 Jun 2026 (S+, confirmed).
+- M9 rank-and-rent: WEAK. All rent ($300-3,000/mo) and time-to-rank (2.5-5 mo) numbers are vendor/course content; no verified beginner outcomes; SEO skills not software leverage.
+- M10 freight broker back office: WEAK (leaning KILL). Labour business; seat ~$2,000/mo (FreightBridge, P); VA firms $6.50-10/hr; Freight Hero funded.
+- M11 VN/ID e-invoice: KILL. Provider must be GDT-approved (VN) / DJP-appointed PJAP (ID); incumbents ~$0.04/invoice; Decree 254/2026 effective 1 Jul 2026 (S).
+- M12 Turkey e-Fatura front-end: WEAK (near KILL). Reselling legal via integrator programmes (Izibiz, E-Donustur 100k-kontor minimum); thin commission; free GIB portal; 1 Jul 2026 threshold rush passed.
+- M13 custom MCP servers: WEAK (leaning KILL). All prices vendor marketing (10x disagreement); large vendors ship own MCP; generators (Speakeasy Gram, FastMCP) commoditise builds; no solo-studio revenue disclosed.
+Result: 8 killed (M1,M2,M3,M4,M6,M7,M8,M11); 5 weak survivors (M5,M9,M10,M12,M13) advance to 7.4 audit/7.5 red team/7.6 scoring only as a record. Expect low scores; no new leader indicated. Lesson: AI-back-office/SaaS/compliance themes are saturated by cheap bundled incumbents; physical parts lose to established wholesale; platform terms (Yelp) can silently kill reseller models.
