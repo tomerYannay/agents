@@ -3,6 +3,7 @@ Biases found in Phases 1-5: heavy Israel/diaspora affinity; low-capital digital 
 Steps: 6.1 discovery (6 agents, <=10 searches each) -> 6.2 dedupe/shortlist -> 6.3 competitor/pricing/distribution checks -> 6.4 evidence audit -> 6.5 red team (include H6 new-entrant re-check) -> 6.6 scoring -> 6.7 report + leaderboard.
 
 ## Status after run 1: 6.1 COMPLETE (all six agents returned). 6.2 shortlist below (dedupe done vs exclusions; PPWR kits, Belgian Peppol, EAA, Gulf WhatsApp, LatAm customs, KSeF generic invoicing app, FSMA 204, pilot/pet/piano/homeschool apps dropped as weak/overlap).
+(6.3 COMPLETE -- see overnight-research-log.md; killed L6, L10, L12)
 Shortlist L1-L12:
 L1 Managed SOC2/ISO evidence-keeper, small SaaS (E)
 L2 US sales-tax nexus done-for-you for foreign sellers (E)
