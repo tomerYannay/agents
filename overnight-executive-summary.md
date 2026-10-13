@@ -5,5 +5,5 @@
 6. Score changes: H6 college-baseball API 57.2 -> 45.2 (free incumbents, NCAA ToS, no new-entrant evidence). H1 flagged crowded, unchanged.
 7. Findings: regulation-driven B2B themes are mostly served by bundled tools/incumbent white-labels or need licensed local entities; services score low on scalability.
 8. Limits: all audit evidence is search-snippet secondary (WebFetch DNS failed); no customer contact; gaps under ~5 pts are noise.
-9. Blockers: WebFetch unavailable this run. 10. Git: cross-run continuity VERIFIED (run 2 loaded origin/research). Final push status: see research-state.json after merge.
+9. Blockers: WebFetch unavailable this run. 10. Git: cross-run continuity VERIFIED (run 2 loaded origin/research). Phase 6 persisted: PR #4 merged into research (8a99446).
 11. Next: Phase 7 discovery (themes in next-phase-plan.md).
