@@ -14,6 +14,18 @@ Track A = realistic $2–5k/month owner profit. Track B = route to $10–30k+/mo
 4. A listed price is not proof of buyers. Seek transaction signals: sales counts, review velocity (reviews in the last 12 months), funded amounts, disclosed revenue, job/order volume, public filings, government statistics.
 5. Distribution is decisive. Every promising idea needs a SPECIFIC acquisition mechanism plus evidence that the channel produces purchases for comparable offers, ideally for new entrants. Estimate acquisition cost only from evidence; otherwise mark [Unknown].
 
+## Phase 8 measurements (use as priors)
+- Newcomer base rates (upper bounds; survivor-biased datasets):
+  - TrustMRR, 2024–26 cohort: 3.9% reach $3k+ MRR and 7.4% reach $1k+.
+  - App Store: 5.8% of new non-game apps reach 1k ratings; individual developers 4.9%.
+  - Superhive: median 2.5 sales in the first 3 months.
+- Traits of winners without an audience (TrustMRR lift):
+  - Revenue per account of $300+/month: 5.1×. Under $10: 0.37×.
+  - Teams of 2–5 people: 4.4×. Solo founders: 0.8×.
+  - Paid and partner channels (Meta, TikTok Ads, affiliates, partnerships): 3–6×. Product Hunt, Hacker News, Reddit and X: 0–0.4×.
+- Copy window is about 6 months. Visible niches were entered within that time: 3 QuickBooks Desktop API clones, 4 WooCommerce Merchant Center monitors, over 100 padel apps per storefront, 141–151 wedding photo apps. Any idea whose edge is "first to notice" must say why it survives a fast follower.
+- Comparables from TrustMRR or Empire Flippers are n=1 survivors. Check their monthly trend (several were flat, declining or listed for sale).
+
 ## Evidence rules
 Labels: [Verified: URL, date accessed/published] / [Secondary: source] / [Anecdote or vendor claim] / [Hypothesis] / [Unknown]. Never invent customer counts, market size, revenue, conversion, CAC, margins, willingness to pay, or interviews. Search snippets are not verified pages — open the page (WebFetch) before labelling Verified. Absence of search results ≠ absence of competitors.
 
