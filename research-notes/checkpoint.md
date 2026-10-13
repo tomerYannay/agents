@@ -6,11 +6,11 @@ Branch: `local-research-phase6-10` (from `main` at 8b149d2). The cloud `research
 - Phase 6: COMPLETE. Report `business-opportunity-report-phase6-2026-10-13.md`.
 - Phase 7: COMPLETE. Report `business-opportunity-report-phase7-2026-10-13.md`; working files `research-notes/phase7/`.
 - Phase 8: COMPLETE. Report `business-opportunity-report-phase8-2026-10-13.md`; working files `research-notes/phase8/`. Agent D's TrustMRR crawl was stopped at 7,866 of 11,435 pages (69% random sample).
-- Phase 9: NEXT. Direction: copy-resistant positions open to this founder (licence or regulated status, exclusive data or supply, thin-market local network effects, Israel presence or knowledge, acquired relationships). Each idea needs evidence of time-to-copy. Use the Phase 8 base rates as the prior. Leader re-check: H6 data rights; K8 Framer newcomer outcomes; H1 Tindie/Etsy newcomer outcomes; M1 Sage NA partner terms via Wayback.
-- Phase 10: not started.
+- Phase 9: COMPLETE. Report `business-opportunity-report-phase9-2026-10-13.md`; working files `research-notes/phase9/`. Direction (copy-resistant positions) largely falsified.
+- Phase 10: NEXT. Direction: high-ticket B2B ($300+/account/month or $1,500+ one-off) sold through paid or partner channels, with unit economics that survive copying. Each idea needs: the paid keyword or audience; advertiser competition (Google Ads Transparency Center / Meta Ad Library); newcomer outcomes; the cheapest test with a kill threshold. Leader re-check: decisive desk checks for H7, H6, H1, the monday.com app and J7. Then the FINAL cross-phase report (Phases 1–10).
 
 ## Search usage
-Phase 6: 69. Phase 7: 73. Phase 8: 52. Log: `research-notes/search-log.txt`.
+Phase 6: 69. Phase 7: 73. Phase 8: 52. Phase 9: 53. Log: `research-notes/search-log.txt`.
 
 ## Process notes
 - P8: new reconciliation rule (mean of auditor and red team at criterion level; see methodology).

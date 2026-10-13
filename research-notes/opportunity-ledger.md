@@ -1,4 +1,4 @@
-# Master opportunity ledger and exclusions (Phases 1–8; updated each phase)
+# Master opportunity ledger and exclusions (Phases 1–9; updated each phase)
 
 Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitted with a materially different segment, model or channel, stated explicitly.
 
@@ -9,7 +9,7 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | H7 | Blender/VRChat pipeline add-ons (Superhive/Gumroad) | 3 | 55.4* | Corrected P5 from 59.4: median new add-on <10 sales in first 2–3 months. P8: corrected from 56.6 (proven channel 3→2): median 2.5 sales in first 3 months; 5.6% reach 100+; supply tripled |
 | H1 | Meshtastic family/neighbourhood kits | 3 | 51.2* | P6: corrected from 54.6. 2-packs exist (Rokland); branded $150+ nodes 0–39 ratings |
 | K13 | Hebrew tender + receivership/liquidator sale intelligence | 5 | 50.6* | P6: corrected from 53.6. Ifat already covers receivers + AI summaries; kones.co.il ₪249/mo |
-| K8 | Framer vertical kit (plugins + pre-wired templates) | 5 | 52.0* | P6: corrected from 53.2 (payout total no longer credited) |
+| K8 | Framer vertical kit (plugins + pre-wired templates) | 5 | 50.4* | P6: corrected from 53.2 (payout total no longer credited). P9: from 52.0 (speed 4→3): ≤9–13% of creators paid in Dec 2025; 2026 creators median 43 followers |
 | R | UK MTD white-label prep for accountants | 2 | 50.2* | P7: corrected from 52.6 (Outbooks/QX offshore prep, Sage MTD AI agent, NRLA Portfolio) |
 | R | monday.com Israeli invoicing app | 1 | 50.8* | P6: corrected from 52.0. Israeli invoicing apps on Shopify/Wix 0–16 reviews |
 | J1 | Hebrew/Russian voice-memoir books | 4 | 48.6* | P7: corrected from 51.0 (MyHeritage MyStories: voice, AI, QR, 10 languages; Hebrew site in testing; books LTR-only) |
@@ -102,6 +102,21 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | N6 | Firmware-first tool on Crowd Supply via manufacturer partner | 8 | 34.9 | Channel verified; hardware lead time and fit |
 | N13 | Connector supplier to unified-API aggregators | 8 | 30.2 | Killed: no aggregator licenses outside connectors |
 
+### Phase 9 scored ideas
+| ID | Idea | Phase | Adjusted | Status / key evidence |
+|---|---|---|---|---|
+| P1 | Approved online boater-safety course (NASBLA + states), language/price entry | 9 | 44.7 | Recademics newcomer precedent; CA holders 10→19; Spanish gap only in TX; $7–12k before first sale |
+| P5 | Niche public-sector SaaS via cooperative contracts (Sourcewell, Texas DIR) | 9 | 43.0 | First-time DIR software holders: median $19.7k, 43% $0; needs product + references |
+| P8 | Open-finance bank-feed reconciliation for Israeli accounting firms | 9 | 36.5 | Licence uncapped (7–8+ holders); capital unknown |
+| P2 | Independent Israel Registration Holder for foreign device makers | 9 | 32.6 | White-label gap closed (Pure Global covers Israel); service; criminal liability |
+| P11 | Software-assisted payroll-audit firm (Israel) | 9 | 32.1 | 2,029 auditors; registrations falling; price unknown |
+| P3 | Israeli holder for one Class II home device, DTC | 9 | 29.3 | Weak exclusivity; over budget |
+| P4 | Israeli household-pesticide registration | 9 | 28.3 | Strong moat, unknown time/cost; committee without deadline |
+| P9 | Israeli back-office for EU/UK accountants on adequacy | 9 | 27.6 | Killed |
+| P6 | Texas DIR contract-vehicle reseller | 9 | 25.8 | Killed |
+| P7 | Israeli government cloud marketplace (Nimbus tier 5) | 9 | 25.6 | Killed: pass/fail, no spend data |
+| P10 | Small-language local-marketplace liquidity roll-up | 9 | 25.5 | Killed: years and capital |
+
 ## Investigated but not scored on the frozen rubric (exclusions)
 **Phase 1:** customs-broker document extraction; insurance commission reconciliation; monday.com setups; security questionnaires; website/mobile accessibility (IS 5568, EAA); Zapier→n8n migration; Amendment 13 privacy kits; app-store age-signal SDK; Peppol connectors; shelter/safe-room renovation; solar tariff-deadline brokerage; olim foreign-asset disclosure; CBAM data packs; war-damage claims; Hebrew import labelling; vaad-bayit apps; EUDR; foreign construction-worker services.
 
@@ -118,3 +133,5 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 **Phase 7:** Israel Gefen programme catalogue; HSA/FSA eligibility (Truemed); employee perks portals; creator revenue-share app building; library e-resources; bank/card offers; telco bundles; DiGA; furusato nozei; student discount platforms; Israeli meal/perks networks; employee spending accounts; corporate gifting platforms; pet-memorial keepsakes via vets; club merch stores outside US; generic POD Faire brand; US school spirit wear; UK school art fundraisers; private-label practitioner supplements; trade-show launches; Israeli corporate holiday gifts; profession-themed paper goods; franchisor operations tools; Do it Best Open Buying Day product lines; insurance-agency alliance tech; vet group partners; kibbutz software via Mishkei; Mashcal municipal supply; DSO/dental buying groups; insurer claims networks; franchisee software; single-country fiscal/e-invoicing APIs (Spain Verifactu etc.); German e-invoice API; dental/vet PMS bridges; white-label agency tools; bank calculators; accounting-firm-deployed tools; Odoo App Store modules; Israeli Odoo compliance; Odoo Ready partner; Tiendanube partner; Pax8 vendor; Telarus supplier; buying Shopify rev-share books; accountant referral deals; Shopify partner in Germany; residual-book purchases; reverse licensing of dormant brands; UK/EU commission agent; classic manufacturer's rep; Instant Checkout supplier; MCP/AI-agent supplier; art licensing agency.
 
 **Phase 8:** cruise price-drop monitor; Slant 3D made-to-order hobby tools; niche paid-ads agency (med spas); Spanish/Italian phone-prospecting data (GDPR); Thumbtack lead auto-responders; Upwork proposal automation; country-specific business-owner lead data; file-version downgrade tools (SketchUp/ArchiCAD/Revit); vending-placement directories; hosted OpenClaw wrappers; generic AI ads/SEO agents; DATEV/Hashavshevet/construction-system APIs; Fresha integration API (terms); non-US betting-tips apps; developer-tool mobile companions; H2 revival boards for Bose SoundTouch/Wemo (no orphaned gap).
+
+**Phase 9:** UK pet-microchip database; Israeli second-hand fashion marketplace; P2P escrow (Israel); hosted breed-society registries; Tel Aviv verified sublets; local tradesperson review/verification sites in small markets; babysitting marketplaces; UK school-uniform exchanges; Vinted seller tools; Hebrew apps on free government data; aged seller accounts; Israeli Class I private-label devices; EU Class I own-brand devices; US FDA-registered devices; Israeli cosmetics responsible person; food/alcohol/pet-food import registration; wireless-device approvals; exclusive EU importer for US brands (GPSR); OTC hearing aids DTC; Israeli-standard-only imports; exclusive IP licensing for physical goods; Israeli notary; US customs broker; tour-guide refresher courses; EU/GPSR responsible person; FDA US agent; EU authorised representative for Israeli makers; IOSS intermediary; Texas food-handler courses; buying German contract holders; IRS 2290 e-file; Texas driving-safety and trade CE courses; certified e-invoicing for end users (FR/HR/UK); Canadian NETFILE software; Streamlined Sales Tax certified provider; Texas court e-filing provider; boat-rental platform partnerships; single-winner Israeli central tenders; exclusive association endorsements; UK DPS services; exclusive placement/white-label; Hebrew business apps; licensed real-estate brokerage; services for registered contractors; radon testing; Israeli open-data products; buying Israeli licence holders.
