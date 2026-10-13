@@ -3,14 +3,18 @@
 Branch: `local-research-phase6-10` (from `main` at 8b149d2). The cloud `research` branch is a separate experiment and is NOT used.
 
 ## Status
-- Phase 6: COMPLETE (2026-10-13). Report `business-opportunity-report-phase6-2026-10-13.md`; working files `research-notes/phase6/`.
-- Phase 7: NEXT. Direction: distribution that can be borrowed, contracted or inherited (white-label/B2B2C partnerships with parties that own the customer; revenue-share with audience owners measured systematically; wholesale to retailers/businesses). Also newcomer re-check of UK MTD prep (#2) and J1 memoir books (#6).
-- Phases 8–10: not started.
+- Phase 6: COMPLETE. Report `business-opportunity-report-phase6-2026-10-13.md`.
+- Phase 7: COMPLETE. Report `business-opportunity-report-phase7-2026-10-13.md`; working files `research-notes/phase7/`.
+- Phase 8: NEXT. Direction: reverse-engineer verified recent newcomer winners (TrustMRR, App Store by release date, Flippa/Empire Flippers young businesses, hardware crowdfunding, registries) across software AND non-software; find replicable audience-free patterns. Leader re-check: re-measure H7 Superhive newcomer sales (2026); M1 integration-page census (Sage 50 vs QuickBooks Desktop) if feasible.
+- Phases 9–10: not started.
 
 ## Search usage
-Phase 6: 69 WebSearches (quota held). Log: `research-notes/search-log.txt`.
+Phase 6: 69. Phase 7: 73. Log: `research-notes/search-log.txt`.
+
+## Process notes
+- P7 incident: one SEC EDGAR request carried the user's email in its User-Agent (Agent C). Brief now forbids personal identifiers in requests.
 
 ## Resume instructions
 1. Read `research-methodology.md`, `opportunity-ledger.md`, `cumulative-leaderboard.md`, this file, and the current phase folder.
-2. If agent outputs exist in the phase folder, do not re-run them; continue from the next step (merge → shortlist → audit + red team → score → report).
-3. Since Phase 6, publish criterion-level step scores for every new score (see Phase 6 report §6).
+2. If agent outputs exist in the phase folder, do not re-run them; continue from the next step.
+3. Publish criterion-level step scores for every new score.
