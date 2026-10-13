@@ -1,4 +1,4 @@
-# Master opportunity ledger and exclusions (Phases 1–9; updated each phase)
+# Master opportunity ledger and exclusions (Phases 1–10; final)
 
 Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitted with a materially different segment, model or channel, stated explicitly.
 
@@ -117,6 +117,22 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | P7 | Israeli government cloud marketplace (Nimbus tier 5) | 9 | 25.6 | Killed: pass/fail, no spend data |
 | P10 | Small-language local-marketplace liquidity roll-up | 9 | 25.5 | Killed: years and capital |
 
+### Phase 10 scored ideas
+| ID | Idea | Phase | Adjusted | Status / key evidence |
+|---|---|---|---|---|
+| Q1 | Self-serve AI live translation for small US towns/school boards | 10 | 47.0 | Mountain View $43,750 for 300 hours; Glossa ~$145 per account; Wordly self-serve; board votes; night hours |
+| Q2 | AI DM appointment-setter for coaches, German first | 10 | 44.6 | ai-dm-setter $20.7k MRR (10 channels, team of 2–5); Meta 24-hour rule; LTV:CAC ~1.5 at 3× CPC |
+| Q11 | UK Companies House charge signals for finance brokers | 10 | 44.0 | Free official data, already resold; LeadX lumpy after 2.5 years near zero |
+| Q3 | Collaborating-physician matching + compliance admin for NPs/PAs | 10 | 42.6 | Full-practice-authority laws erode demand (NJ 2026); Zivian no match fee; two-sided |
+| Q9 | Offshore service-desk seats for US insurance agencies | 10 | 37.2 | Staffing; crowded |
+| Q5 | Complex US expat tax catch-up/exit desk | 10 | 36.9 | Greenback ~$2.9–3.4k for complex cases; negative at 3× CPC |
+| Q4 | Reverse recruiting for US professionals | 10 | 36.8 | NY §171 and CA regulate job-seeker-paid search; negative at 3× CPC |
+| Q10 | Compliance operations desk for new small RIAs | 10 | 33.1 | Drift; poor fit |
+| Q7 | B2B equipment dealer quote desk | 10 | 31.6 | Paid-led 5–10% margins; dealer terms |
+| Q8 | Own-label factory-direct high-ticket catalogue | 10 | 29.2 | Comparable unsold 320 days, declining |
+| Q12 | Cost-seg/R&D credit referral desk | 10 | 26.7 | Terms unread (PPC?) |
+| Q6 | International pet relocation | 10 | 24.1 | Killed |
+
 ## Investigated but not scored on the frozen rubric (exclusions)
 **Phase 1:** customs-broker document extraction; insurance commission reconciliation; monday.com setups; security questionnaires; website/mobile accessibility (IS 5568, EAA); Zapier→n8n migration; Amendment 13 privacy kits; app-store age-signal SDK; Peppol connectors; shelter/safe-room renovation; solar tariff-deadline brokerage; olim foreign-asset disclosure; CBAM data packs; war-damage claims; Hebrew import labelling; vaad-bayit apps; EUDR; foreign construction-worker services.
 
@@ -135,3 +151,5 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 **Phase 8:** cruise price-drop monitor; Slant 3D made-to-order hobby tools; niche paid-ads agency (med spas); Spanish/Italian phone-prospecting data (GDPR); Thumbtack lead auto-responders; Upwork proposal automation; country-specific business-owner lead data; file-version downgrade tools (SketchUp/ArchiCAD/Revit); vending-placement directories; hosted OpenClaw wrappers; generic AI ads/SEO agents; DATEV/Hashavshevet/construction-system APIs; Fresha integration API (terms); non-US betting-tips apps; developer-tool mobile companions; H2 revival boards for Bose SoundTouch/Wemo (no orphaned gap).
 
 **Phase 9:** UK pet-microchip database; Israeli second-hand fashion marketplace; P2P escrow (Israel); hosted breed-society registries; Tel Aviv verified sublets; local tradesperson review/verification sites in small markets; babysitting marketplaces; UK school-uniform exchanges; Vinted seller tools; Hebrew apps on free government data; aged seller accounts; Israeli Class I private-label devices; EU Class I own-brand devices; US FDA-registered devices; Israeli cosmetics responsible person; food/alcohol/pet-food import registration; wireless-device approvals; exclusive EU importer for US brands (GPSR); OTC hearing aids DTC; Israeli-standard-only imports; exclusive IP licensing for physical goods; Israeli notary; US customs broker; tour-guide refresher courses; EU/GPSR responsible person; FDA US agent; EU authorised representative for Israeli makers; IOSS intermediary; Texas food-handler courses; buying German contract holders; IRS 2290 e-file; Texas driving-safety and trade CE courses; certified e-invoicing for end users (FR/HR/UK); Canadian NETFILE software; Streamlined Sales Tax certified provider; Texas court e-filing provider; boat-rental platform partnerships; single-winner Israeli central tenders; exclusive association endorsements; UK DPS services; exclusive placement/white-label; Hebrew business apps; licensed real-estate brokerage; services for registered contractors; radon testing; Israeli open-data products; buying Israeli licence holders.
+
+**Phase 10:** green-card self-petitions (practice of law); UK probate front-end; Spain/Portugal relocation visas; credential evaluation; medical-bill advocacy; SSDI/VA claims representation; credit repair; student-loan help; uncontested-divorce documents; standalone executive resumes; buying young dealer stores; inventory-holding high-ticket brands; MAP-bound Google Shopping; Faire dropship catalogue; telehealth dropship; single-trade local-SEO agency; LinkedIn lead-gen for advisers; realtor email blasts; remote recruiting; manufacturer marketing subscriptions; SOC 2 readiness; done-for-you sales-tax filing; niche catch-up bookkeeping; Spanish/Portuguese DM setter; Roblox analytics; Australian mortgage-broker AI; affiliate PPC arbitrage; LinkedIn Ads as main channel for sub-$5k deals; Meta Ads for $300+ consumer offers.
