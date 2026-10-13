@@ -8,7 +8,7 @@ Branch: `local-research-phase6-10` (from `main` at 8b149d2). The cloud `research
 - Phase 8: COMPLETE. Report `business-opportunity-report-phase8-2026-10-13.md`; working files `research-notes/phase8/`. Agent D's TrustMRR crawl was stopped at 7,866 of 11,435 pages (69% random sample).
 - Phase 9: COMPLETE. Report `business-opportunity-report-phase9-2026-10-13.md`; working files `research-notes/phase9/`. Direction (copy-resistant positions) largely falsified.
 - Phase 10: COMPLETE. Report `business-opportunity-report-phase10-2026-10-13.md`. Corrected the Phase 8 price/paid-channel premise.
-- FINAL REPORT: in progress, `business-opportunity-final-report-phases1-10-2026-10-13.md`.
+- FINAL REPORT: COMPLETE, `business-opportunity-final-report-phases1-10-2026-10-13.md`. Research programme (Phases 1–10) finished. Next steps are user decisions on the validation tests in §11 of the final report; none have been executed.
 
 ## Search usage
 Phase 6: 69. Phase 7: 73. Phase 8: 52. Phase 9: 53. Phase 10: 54. Log: `research-notes/search-log.txt`.
