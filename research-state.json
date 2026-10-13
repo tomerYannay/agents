@@ -9,10 +9,13 @@
  "current_phase": 6,
  "phase6_status": "6.3 COMPLETE; next 6.4 independent evidence audit of surviving candidates",
  "current_execution_step": "6.4",
- "last_saved_checkpoint": "2026-10-13 run1: state files created; discovery launched",
+ "last_saved_checkpoint": "2026-10-13 run1: step 6.3 complete, merged to research",
  "persistence": {
-  "note": "Push works as of 2026-10-13 (access fixed). Still using session branch claude/determined-allen-zrr7gn; no `research` branch. Cross-run continuity NOT yet verified until a later run loads this checkpoint.",
-  "branch": "claude/determined-allen-zrr7gn"
+  "canonical_branch": "research",
+  "session_branch": "claude/determined-allen-zrr7gn",
+  "flow": "session branch -> PR -> research (merge allowed, tested PR #1, #2 on 2026-10-13)",
+  "cross_run_continuity": "NOT yet verified: needs a later scheduled run to load origin/research",
+  "last_verified_research_commit": "c7b62e2"
  },
  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
  "research_gaps": [
