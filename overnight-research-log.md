@@ -32,3 +32,11 @@ Summary: no L-candidate clears the evidence bar on price+channel+new-entrant. Ad
 Cross-run continuity VERIFIED: run 2 loaded origin/research checkpoint (c8279d0) and resumed at 6.4.
 - Auditor L2 (WebFetch DNS failed; search summaries only): Kintsugi $75/filing, ~$699-799/state/yr; Avalara $699-799/state/yr; foreign sellers can get EIN w/o SSN but states ask responsible-party SSN/ITIN; Anrok/Numeral/Zamp/Zenind already publish foreign-seller guides. POA/legal-filer, CPC, entrants UNKNOWN. Verdict WEAK-to-viable.
 - Auditor L3: prices $300-4,000 flat (attorney $1.5-2.3k); very crowded (Fiverr, FreeeUp, law firms, ex-Amazon staff); appeals free to self-file; no demand/channel data; shared-access suspension risk. Verdict WEAK.
+- Auditor L1: platform prices Secureframe from $7k/yr, Vanta ~$10k+, Drata ~$7.5k, Sprinto $4-8k (third-party est.); vCISO $1.5-5k/mo; non-CPA may sell readiness/evidence but operating controls creates AICPA independence problem; Delve allegations (class action 21 Apr 2026) add trust friction. WEAK.
+- Auditor L9: no verified private contingency % (4-10% UNVERIFIED); crowded (R1, Aspirion); HIPAA BAA needed; no evidence small entrants win. WEAK.
+- Auditor L4: definitive period began 1 Jan 2026, 50t threshold, certificates from 1 Feb 2027, first declaration 30 Sep 2027 (secondary sources; EC page not fetched). Competition UNKNOWN. Viable-but-unproven; previously found ~90% importers exempt.
+- Auditor L7: Iopole (DGFiP-registered PA) already sells API white-label B2B2B to software vendors; 1 Sep 2026 obligation already passed. WEAK.
+- Auditor H6 re-check: free incumbents Highlightly (free tier 100 req/day, RapidAPI) and BALLDONTLIE college baseball API; 64 Analytics $9.99-12.99/mo; NCAA ToS restricts; NO evidence any small API has paying customers => material downward evidence.
+- Auditor H1: Etsy crowded (MidwestTech, CreatorSam, OffGridDevices, TerraNode); newest entrant OffGridDevices 29 sales/14 reviews since 2025; no correction warranted.
+- Auditor monday.com: marketplace unreachable (DNS), install counts UNKNOWN; no correction.
+- Tool limitation: WebFetch failed DNS in this run; all audit evidence is search-snippet level. Primary-page verification remains pending.
