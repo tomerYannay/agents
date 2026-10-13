@@ -40,3 +40,10 @@ Cross-run continuity VERIFIED: run 2 loaded origin/research checkpoint (c8279d0)
 - Auditor H1: Etsy crowded (MidwestTech, CreatorSam, OffGridDevices, TerraNode); newest entrant OffGridDevices 29 sales/14 reviews since 2025; no correction warranted.
 - Auditor monday.com: marketplace unreachable (DNS), install counts UNKNOWN; no correction.
 - Tool limitation: WebFetch failed DNS in this run; all audit evidence is search-snippet level. Primary-page verification remains pending.
+
+## 2026-10-13 run 3 -- Phase 7 steps 7.1-7.2 COMPLETE
+Loaded origin/research (07d8009) and resumed. Six agents ran (5-10 searches each, vendor/secondary sources only; evidence thin, all new-entrant revenue UNKNOWN).
+Raw: A (Part 107 compliance pack; pen boxes; hobby-app MRR; used-equipment) · B (espresso parts kits; dental handpiece parts [HIGH device gate]; used lab equip [ISO17025/pressure gate]; used espresso) · C (UK/AU scaffold marketplace; rank-and-rent; used-equip brokerage; freight-broker back office) · D (no verifiable candidate; metrics tooling; vertical AI intake; TrustMRR API as research tool) · E (review-response white-label; AI AP invoice capture; chargeback; property-mgmt back office) · F (VN/ID e-invoice; Turkey e-Fatura; custom MCP servers; GEO India).
+Dropped at 7.2: dental parts (device gate), used lab equipment (gates/capital), used espresso machines, pen subscription box (thin margin, poor fit), hobby-app generic, used-equipment alert subscription (free tools), GEO India (cheap competitors, weak WTP), Telegram mini apps, India DPDP tools, subtitle QA.
+Shortlist M1-M13 listed in research-state.json (phase7_shortlist). Hints: M6 likely kill (Redo $0 representment); M3 crowded; M11/M12 need licence-gate check first.
+Note: Agent reports are unverified model output; claims such as Oneflare closure 30 Jun 2026 and Decree 254/2026 need verification in 7.3.
