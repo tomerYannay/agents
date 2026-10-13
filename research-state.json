@@ -16,7 +16,7 @@
   "session_branch": "claude/determined-allen-zrr7gn",
   "flow": "session branch -> PR -> research (merge allowed, tested PR #1, #2 on 2026-10-13)",
   "cross_run_continuity": "VERIFIED in run 2: loaded origin/research checkpoint c8279d0 and resumed",
-  "last_verified_research_commit": "c7b62e2"
+  "last_verified_research_commit": "8a99446 (PR #4 merge, run 2)"
  },
  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
  "research_gaps": [
