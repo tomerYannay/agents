@@ -7,3 +7,7 @@
 8. Limits: all audit evidence is search-snippet secondary (WebFetch DNS failed); no customer contact; gaps under ~5 pts are noise.
 9. Blockers: WebFetch unavailable this run. 10. Git: cross-run continuity VERIFIED (run 2 loaded origin/research). Phase 6 persisted: PR #4 merged into research (8a99446).
 11. Next: Phase 7 discovery (themes in next-phase-plan.md).
+
+
+## Run 3 update (2026-10-13)
+Phase 7 INCOMPLETE: 7.1 discovery and 7.2 shortlist done (13 candidates M1-M13 from ~24 raw; none scored yet). No score changes. Top 10 unchanged. Limits: discovery evidence is vendor/secondary, new-entrant revenue UNKNOWN. Git: see research-state.json persistence after push. Next: 7.3 checks.
