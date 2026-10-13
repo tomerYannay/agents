@@ -26,6 +26,14 @@ Track A = realistic $2–5k/month owner profit. Track B = route to $10–30k+/mo
 - Copy window is about 6 months. Visible niches were entered within that time: 3 QuickBooks Desktop API clones, 4 WooCommerce Merchant Center monitors, over 100 padel apps per storefront, 141–151 wedding photo apps. Any idea whose edge is "first to notice" must say why it survives a fast follower.
 - Comparables from TrustMRR or Empire Flippers are n=1 survivors. Check their monthly trend (several were flat, declining or listed for sale).
 
+## Phase 9 measurements (use as priors)
+- A moat this founder can obtain in 3–9 months for about $2k, a follower can also obtain. Cheap licences and approvals fill quickly: IRS 2290 providers 64→149; Israeli food importers 3,098; IOSS intermediaries 1,394.
+- Hard moats protect incumbents. The median new EU authorised representative has 1 client.
+- First-time Texas DIR software contract holders: median $19.7k a year, and 43% sold $0.
+- Local marketplace entrants have 0–11 ratings against incumbents.
+- Hebrew business apps released since 2024 have a median of 0 Israeli ratings. Treat Israel-domestic ideas cautiously, because our search tools under-find Israeli incumbents.
+- Defensibility should score at most 2 for any moat obtainable in under about 9 months, unless holder numbers are capped or the term is fixed.
+
 ## Evidence rules
 Labels: [Verified: URL, date accessed/published] / [Secondary: source] / [Anecdote or vendor claim] / [Hypothesis] / [Unknown]. Never invent customer counts, market size, revenue, conversion, CAC, margins, willingness to pay, or interviews. Search snippets are not verified pages — open the page (WebFetch) before labelling Verified. Absence of search results ≠ absence of competitors.
 
