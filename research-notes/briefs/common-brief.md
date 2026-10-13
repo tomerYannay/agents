@@ -20,8 +20,9 @@ Labels: [Verified: URL, date accessed/published] / [Secondary: source] / [Anecdo
 ## Access rules (strict)
 - Do NOT use any browser-automation tools (mcp__claude-in-chrome__* or any other browser), signed-in sessions or private accounts. Use only WebSearch, WebFetch, and Bash with curl/python for PUBLIC pages/APIs.
 - Do not contact anyone, submit forms, sign up, purchase, or post anything. Do not bypass paywalls, logins, CAPTCHAs or robots blocks; if blocked, say so.
-- Scripts and downloaded files go under the scratchpad directory: /private/tmp/claude-501/-Users-tomeryannay-Projects-agents/33458dff-96bb-4d90-98b6-5161ecb65c2e/scratchpad/p6plus/<your-agent-id>/ (put downloaded data in a separate subfolder from scripts; run python with -I). Do not write into the repo except where your prompt says.
+- Scripts and downloaded files go under the scratchpad directory: /private/tmp/claude-501/-Users-tomeryannay-Projects-agents/33458dff-96bb-4d90-98b6-5161ecb65c2e/scratchpad/p6plus/<phase>-<your-agent-id>/ (put downloaded data in a separate subfolder from scripts; run python with -I). Do not write into the repo except where your prompt says.
 - Load web tools via ToolSearch "select:WebSearch,WebFetch".
+- Never put the user's name, email address or any personal identifier into request headers (e.g., User-Agent), URLs, or payloads. If a site such as SEC EDGAR requires a contact User-Agent, use a generic one (e.g., `research-bot admin@example.com`) or skip the source and report it.
 
 ## Search budget (hard rule)
 - Your WebSearch cap is stated in your prompt. Count your searches and report the count.
