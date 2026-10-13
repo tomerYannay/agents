@@ -11,9 +11,8 @@
  "current_execution_step": "6.3",
  "last_saved_checkpoint": "2026-10-13 run1: state files created; discovery launched",
  "persistence": {
-  "note": "No origin/research branch existed; session harness requires pushes to claude/determined-allen-zrr7gn, so state is saved there. Cross-run continuity NOT yet verified.",
-  "branch": "claude/determined-allen-zrr7gn",
-  "last_successful_remote_commit": null
+  "note": "Push works as of 2026-10-13 (access fixed). Still using session branch claude/determined-allen-zrr7gn; no `research` branch. Cross-run continuity NOT yet verified until a later run loads this checkpoint.",
+  "branch": "claude/determined-allen-zrr7gn"
  },
  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
  "research_gaps": [
