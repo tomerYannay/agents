@@ -5,13 +5,13 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 ## Scored ideas (frozen Phase 3 rubric; Adjusted score)
 | ID | Idea | Phase | Adjusted | Status / key evidence |
 |---|---|---|---|---|
-| H6 | Hobbyist college-baseball/softball data API | 3 | 57.2 | Channel evidence = one incumbent (CFBD 3,671 patrons). New-entrant re-check pending |
+| H6 | Hobbyist college-baseball/softball data API | 3 | 52.2* | P6: corrected from 57.2. CFBD outlier; peers 8–447 patrons; Highlightly NCAA baseball API $7.99; NCAA terms bar commercial use |
 | H7 | Blender/VRChat pipeline add-ons (Superhive/Gumroad) | 3 | 56.6* | Corrected P5 from 59.4: median new add-on <10 sales in first 2–3 months |
-| H1 | Meshtastic family/neighbourhood kits | 3 | 54.6 | No multi-packs found; Amazon newcomer re-check pending |
-| K13 | Hebrew tender + receivership/liquidator sale intelligence | 5 | 53.6 | Ifat pricing unknown; scraping legality unknown |
-| K8 | Framer vertical kit (plugins + pre-wired templates) | 5 | 53.2 | Per-template sales invisible; new-creator outcomes unmeasured |
+| H1 | Meshtastic family/neighbourhood kits | 3 | 51.2* | P6: corrected from 54.6. 2-packs exist (Rokland); branded $150+ nodes 0–39 ratings |
+| K13 | Hebrew tender + receivership/liquidator sale intelligence | 5 | 50.6* | P6: corrected from 53.6. Ifat already covers receivers + AI summaries; kones.co.il ₪249/mo |
+| K8 | Framer vertical kit (plugins + pre-wired templates) | 5 | 52.0* | P6: corrected from 53.2 (payout total no longer credited) |
 | R | UK MTD white-label prep for accountants | 2 | 52.6 | Weak distribution |
-| R | monday.com Israeli invoicing app | 1 | 52.0 | Marketplace new-entrant re-check pending |
+| R | monday.com Israeli invoicing app | 1 | 50.8* | P6: corrected from 52.0. Israeli invoicing apps on Shopify/Wix 0–16 reviews |
 | J1 | Hebrew/Russian voice-memoir books | 4 | 51.0 | Storyworth/Remento proof abroad; Israeli competitors unknown |
 | J7 | Niche Apify Actors | 4 | 50.8* | Corrected P5 from 55.4: median new Actor 1 MAU |
 | H10 | Ketubot | 3 | 50.6 | Ketubah.com incumbent |
@@ -51,6 +51,23 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | K3 | Pinball mods | 5 | 34.6 | Killed |
 | J5 | Commercial rooftop solar cleaning (Israel) | 4 | 34.0 | |
 
+### Phase 6 scored ideas
+| ID | Idea | Phase | Adjusted | Status / key evidence |
+|---|---|---|---|---|
+| L6 | Pay-per-call / exclusive lead sites, emergency home-service trades | 6 | 48.8 | Realised payouts $35–110/call; GBP excludes lead-gen; new-site ranking unmeasured |
+| L2 | Spanish-language AI-agents paid community with native co-host | 6 | 46.6 | Skool: new Spanish "claude" groups median 136 (upper bound) |
+| L10 | G-Cloud micro-SaaS for one UK public-sector workflow | 6 | 46.2 | G-Cloud 15 reopens ~Feb 2028; 86% suppliers earn nothing |
+| L9 | Takeover of stale high-install WordPress plugins | 6 | 45.4 | Author consent; trademarks; maintained replacements |
+| L7 | Backflow-test tracking, tester-pay (US/CA) | 6 | 45.0 | BSI patent; no price wedge |
+| L12 | Seeker-paid local-language job search + AI | 6 | 44.2 | Ton-piston audience-driven |
+| L8 | Small-cemetery records/mapping software | 6 | 43.2 | Cemify low-end, slow acquisition |
+| L1 | Elterngeld concierge for non-German speakers | 6 | 42.2 | RDG risk (BSG B 10 KG 1/18 R); €24.95 EN software exists |
+| L13 | Acquire and modernise aged apps | 6 | 41.4 | Capital 5–25× budget |
+| L3 | Operator partner for hobby-expert communities | 6 | 39.2 | Agency drift |
+| L4 | Bulk 3D filament for Israeli print farms | 6 | 31.0 | Self-import ≈ sale price |
+| L11 | G-Cloud reseller for non-UK SaaS | 6 | 26.4 | Killed |
+| L5 | First Israeli distributor of EU professional brands | 6 | 25.2 | Killed |
+
 ## Investigated but not scored on the frozen rubric (exclusions)
 **Phase 1:** customs-broker document extraction; insurance commission reconciliation; monday.com setups; security questionnaires; website/mobile accessibility (IS 5568, EAA); Zapier→n8n migration; Amendment 13 privacy kits; app-store age-signal SDK; Peppol connectors; shelter/safe-room renovation; solar tariff-deadline brokerage; olim foreign-asset disclosure; CBAM data packs; war-damage claims; Hebrew import labelling; vaad-bayit apps; EUDR; foreign construction-worker services.
 
@@ -61,3 +78,5 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 **Phase 4:** youth sports highlight reels; German translate-and-launch for indie authors; psychometric exam prep (Hebrew/Arabic); Hyrox apps; music-teaching Patreons; 3D-printed parts for discontinued products; hearing-aid consumables; Israeli food/cosmetics export; AeroGarden parts; K9 nose-work kits; headstones/burial coordination; elder care management in Israel; FSU grave care; Arabic/Haredi wedding marketplaces; kindergarten-substitute marketplaces; CNC quoting brokers; Hytale/FiveM/Minecraft plugins; DaVinci Resolve plugins; Garmin watch faces; Figma/Raycast/Obsidian/Unity tools; Tami4 filters; Thumbtack-exit services for cleaners; daycare billing; HoneyBook/Fresha/Wild Apricot/Gingr/Mindbody/Rover alternatives; defense-tech scouting; Hebrew deal/affiliate channels; EU parallel import into Israel; Hebrew AI audiobooks; GLP-1 foods; AI receptionists; AI dubbing; agritech sensor data; digital-nomad infrastructure.
 
 **Phase 5:** kids' visual-routine apps; bridge bidding app; dry-fire training app; hunting draw-odds; sheet-music arranging; Chessable courses; gym cables/upholstery; GA flight-sim panels; laser-material blanks; boat decals; US boat-transport brokerage; facility-maintenance aggregator; small-hotel revenue management; espresso refurbish-and-rent; Israel inbound tourism; refurbished marine electronics; Israeli fleet services; gated vertical-platform connectors; machine-owner memberships (CNC); creative micro-plugins (aescripts etc.); JetBrains plugins; Chrome extensions; Wix/HubSpot micro-apps; Shopify regional-marketplace connectors; pallet-manifest tools; Wix workflow apps; Squarespace plugins; fixed-scope builds via expert directories; SaaS group buying for Israeli startups; Faire wholesale agency; Elfsight-style widgets; vintage Israeli posters; legacy feed-in-tariff inverter service; dental-tourism coordination; orphaned-EV parts; nearshoring sourcing agent; Turkish-supplier replacement; Florida insurance; trades succession; drone inspection.
+
+**Phase 6:** MPU prep (Germany); paid flight-deal alerts outside the US; US marriage name-change kits; life-event paid communities (pregnancy, postpartum, baby sleep, grief); Mexican US-visa help; faceless Substack newsletters; Brazil infoproducts; DTF/sublimation consumables (Israel); dental/jewellery resin; winemaking/brewing inputs; café cleaning supplies; lab consumables; clinic hygiene supplies; light-consumable import arbitrage; first distributor in CEE/LatAm; tattoo supplies; remote booking agency for independent instructors; senior-living placement; buying lead-gen sites; Hebrew lead-gen; buying offline businesses with seller financing; PI/Medicare/moving leads; Bark/Thumbtack clones; Israeli lawyer referral fees; grease-trap/septic reporting; UK driving-instructor app; German driving-school admin; appraisal forms; microschool software; FFL records; funeral-home software; flight-school scheduling; tester-side backflow apps; new-licensee lead lists; association career centres; public-sector award digests; language-community city media; employer-paid niche job boards; Israeli government procurement; AppSumo; indie-maker ad slots; generic affiliate/reseller programmes; aged micro-SaaS acquisition; newsletter acquisition; board-game localisation licences; AI translation rights; web-checkout uplift on acquired apps; AI-crawler licensing; sub-$50k SEO/affiliate sites.
