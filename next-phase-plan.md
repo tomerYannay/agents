@@ -25,3 +25,5 @@ Phase 7 theme: (1) productized/automated AI back-office or vertical software for
 Steps: 7.1 discovery -> 7.2 dedupe vs research-exclusions.md/shortlist 12-15 -> 7.3 pricing/competitor/new-entrant checks -> 7.4 audit -> 7.5 red team -> 7.6 score -> 7.7 report. Retry WebFetch at start (DNS failed in run 2).
 
 ## Phase 7 status (run 3): 7.1 and 7.2 COMPLETE. Shortlist M1-M13 in research-state.json. Next: 7.3 checks (priority: M5, M10, M8, M12, M11, M13, M2, M7, M4, M1, M9; quick-kill M6, M3). TrustMRR API (public) can supply new-entrant MRR evidence for software ideas if reachable.
+
+## Phase 7 status (run 3 cont.): 7.3 COMPLETE. 8 killed, 5 weak survivors (M5,M9,M10,M12,M13). Next 7.4 audit -> 7.5 red team -> 7.6 score -> 7.7 report. Phase 8 idea seeds: (a) areas where incumbents are absent rather than cheap-bundled; (b) check recent entrants FIRST before any pricing work; (c) tool-access gap: try to find any route to primary pages that is permitted; if none, state tier limits in the report.

@@ -11,3 +11,6 @@
 
 ## Run 3 update (2026-10-13)
 Phase 7 INCOMPLETE: 7.1 discovery and 7.2 shortlist done (13 candidates M1-M13 from ~24 raw; none scored yet). No score changes. Top 10 unchanged. Limits: discovery evidence is vendor/secondary, new-entrant revenue UNKNOWN. Git: see research-state.json persistence after push. Next: 7.3 checks.
+
+## Run 3 update 2 (2026-10-13)
+Phase 7 step 7.3 done: 13 shortlisted checked with deeper evidence tiers; 8 killed, 5 weak survivors (M5 AP capture, M9 rank-and-rent, M10 freight back office, M12 Turkey e-Fatura front-end, M13 MCP build service). No disclosed recent-entrant revenue for any. Still incomplete: 7.4-7.7. Top 10 unchanged. Limits: primary pages unreachable, all prices S-tier. Git: research head 4fe1ed3 verified via GitHub API; this update pending push.
