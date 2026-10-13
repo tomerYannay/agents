@@ -27,3 +27,8 @@ Discovery results (search budget ~3-10 per agent; prices mostly ASSUMPTION/UNKNO
 - L11 compressor filter replenishment: WEAK (crowded parts sellers; software-only layer has no proven buyer).
 - L12 EUDR validation: KILL (free validators, light small-operator rules, regulatory churn).
 Summary: no L-candidate clears the evidence bar on price+channel+new-entrant. Advance to 6.4 with L2, L3, L1, L9, L4, L7, L8, L5, L11 (L6, L10, L12 killed). Lesson: deadline-driven compliance themes mostly turn out already served by bundled/free tools or require local legal entities.
+
+## 2026-10-13 run 2 -- Step 6.4 audit (in progress)
+Cross-run continuity VERIFIED: run 2 loaded origin/research checkpoint (c8279d0) and resumed at 6.4.
+- Auditor L2 (WebFetch DNS failed; search summaries only): Kintsugi $75/filing, ~$699-799/state/yr; Avalara $699-799/state/yr; foreign sellers can get EIN w/o SSN but states ask responsible-party SSN/ITIN; Anrok/Numeral/Zamp/Zenind already publish foreign-seller guides. POA/legal-filer, CPC, entrants UNKNOWN. Verdict WEAK-to-viable.
+- Auditor L3: prices $300-4,000 flat (attorney $1.5-2.3k); very crowded (Fiverr, FreeeUp, law firms, ex-Amazon staff); appeals free to self-file; no demand/channel data; shared-access suspension risk. Verdict WEAK.
