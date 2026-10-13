@@ -1,0 +1,16 @@
+{
+  "completed_phases": [1,2,3,4,5],
+  "current_phase": 6,
+  "phase6_status": "discovery in progress (run 1)",
+  "current_execution_step": "6.1 discovery by six agents",
+  "last_saved_checkpoint": "2026-10-13 run1: state files created; discovery launched",
+  "persistence": {
+    "note": "No origin/research branch existed; session harness requires pushes to claude/determined-allen-zrr7gn, so state is saved there. Cross-run continuity NOT yet verified.",
+    "branch": "claude/determined-allen-zrr7gn",
+    "last_successful_remote_commit": null
+  },
+  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
+  "research_gaps": ["H6 and monday.com and H1 new-entrant re-check", "B2B regulation-driven spend", "non-Israel geographies", "productized AI back-office services", "physical B2B goods"],
+  "pending_verification": [],
+  "next_planned_task": "Collect discovery outputs, dedupe, shortlist (see next-phase-plan.md)"
+}
