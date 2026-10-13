@@ -18,3 +18,8 @@ L10 Refurb label printers + auto-replenished consumables (B)
 L11 B2B compatible filter/wear-part replenishment (B)
 L12 EUDR geolocation validation (C,D; weak)
 Next (6.3-6.6): price pages/competitor checks for each (key gap: all prices vendor self-reported or UNKNOWN); independent auditor; red team; ALSO H6 new-entrant re-check; score with frozen rubric; pick ~5 finalists; write business-opportunity-report-phase6-DATE.md.
+
+# Phase 6 COMPLETE (2026-10-13). Phase 7 plan (defined run 2)
+Findings: regulation-driven B2B services mostly crowded/gated; no new leader. Remaining biases: services dominate B2B ideas (rubric penalises them on scalability), all evidence secondary.
+Phase 7 theme: (1) productized/automated AI back-office or vertical software for US/EU SMB niches with proven budgets AND no licence gate; (2) physical B2B niche goods with repeat orders; (3) local-trade lead-gen / rank-and-rent / marketplaces in non-Israel geographies; (4) used-equipment sourcing/arbitrage; (5) developer tools/API with measurable new-entrant evidence. Each agent: <=10 searches; check licence/entity gates FIRST; seek new-entrant evidence. 
+Steps: 7.1 discovery -> 7.2 dedupe vs research-exclusions.md/shortlist 12-15 -> 7.3 pricing/competitor/new-entrant checks -> 7.4 audit -> 7.5 red team -> 7.6 score -> 7.7 report. Retry WebFetch at start (DNS failed in run 2).

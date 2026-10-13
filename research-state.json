@@ -4,35 +4,56 @@
   2,
   3,
   4,
-  5
+  5,
+  6
  ],
- "current_phase": 6,
- "phase6_status": "6.3 COMPLETE; next 6.4 independent evidence audit of surviving candidates",
- "current_execution_step": "6.4",
- "last_saved_checkpoint": "2026-10-13 run1: step 6.3 complete, merged to research",
+ "current_phase": 7,
+ "phase6_status": "COMPLETE (report business-opportunity-report-phase6-2026-10-13.md)",
+ "current_execution_step": "7.1 discovery",
+ "last_saved_checkpoint": "2026-10-13 run2: Phase 6 complete; Phase 7 planned",
  "persistence": {
   "canonical_branch": "research",
   "session_branch": "claude/determined-allen-zrr7gn",
   "flow": "session branch -> PR -> research (merge allowed, tested PR #1, #2 on 2026-10-13)",
-  "cross_run_continuity": "NOT yet verified: needs a later scheduled run to load origin/research",
+  "cross_run_continuity": "VERIFIED in run 2: loaded origin/research checkpoint c8279d0 and resumed",
   "last_verified_research_commit": "c7b62e2"
  },
  "opportunities_researched": "see research-exclusions.md and master-opportunity-ledger.md",
  "research_gaps": [
-  "H6 and monday.com and H1 new-entrant re-check",
-  "B2B regulation-driven spend",
+  "monday.com marketplace check",
   "non-Israel geographies",
   "productized AI back-office services",
-  "physical B2B goods"
+  "physical B2B goods",
+  "local trades/lead-gen",
+  "used-equipment arbitrage"
  ],
  "pending_verification": [
-  "all L1-L12 prices",
-  "deadline dates (EUDR, KSeF, CBAM sources conflict)"
+  "primary-page verification of all prices (WebFetch DNS failed run 2)",
+  "L2 POA/ITIN gate",
+  "H6 NCAA data rights",
+  "monday.com marketplace manual check"
  ],
- "next_planned_task": "6.4 auditor (verify top candidates L2,L3,L1,L9 prices/channel by fetching pages; CPC; new-entrant), 6.5 red team + H6 new-entrant re-check, 6.6 score (frozen rubric), 6.7 report. Consider one extra mini-discovery round if all L score <45.",
+ "next_planned_task": "Phase 7 step 7.1: six-agent discovery per next-phase-plan.md (retry WebFetch at start; if still failing note it)",
  "killed_phase6": [
   "L6",
   "L10",
   "L12"
- ]
+ ],
+ "phase6_scores": {
+  "L2": 44.2,
+  "L1": 40.6,
+  "L3": 36.8,
+  "L8": 35.8,
+  "L4": 33.6,
+  "L9": 32.6,
+  "L7": 29.6,
+  "L11": 28.8,
+  "L5": 28.6
+ },
+ "score_corrections": {
+  "H6": {
+   "old": 57.2,
+   "new": 45.2
+  }
+ }
 }
