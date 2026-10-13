@@ -1,4 +1,4 @@
-# Master opportunity ledger and exclusions (Phases 1–5; updated each phase)
+# Master opportunity ledger and exclusions (Phases 1–8; updated each phase)
 
 Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitted with a materially different segment, model or channel, stated explicitly.
 
@@ -6,7 +6,7 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | ID | Idea | Phase | Adjusted | Status / key evidence |
 |---|---|---|---|---|
 | H6 | Hobbyist college-baseball/softball data API | 3 | 52.2* | P6: corrected from 57.2. CFBD outlier; peers 8–447 patrons; Highlightly NCAA baseball API $7.99; NCAA terms bar commercial use |
-| H7 | Blender/VRChat pipeline add-ons (Superhive/Gumroad) | 3 | 56.6* | Corrected P5 from 59.4: median new add-on <10 sales in first 2–3 months |
+| H7 | Blender/VRChat pipeline add-ons (Superhive/Gumroad) | 3 | 55.4* | Corrected P5 from 59.4: median new add-on <10 sales in first 2–3 months. P8: corrected from 56.6 (proven channel 3→2): median 2.5 sales in first 3 months; 5.6% reach 100+; supply tripled |
 | H1 | Meshtastic family/neighbourhood kits | 3 | 51.2* | P6: corrected from 54.6. 2-packs exist (Rokland); branded $150+ nodes 0–39 ratings |
 | K13 | Hebrew tender + receivership/liquidator sale intelligence | 5 | 50.6* | P6: corrected from 53.6. Ifat already covers receivers + AI summaries; kones.co.il ₪249/mo |
 | K8 | Framer vertical kit (plugins + pre-wired templates) | 5 | 52.0* | P6: corrected from 53.2 (payout total no longer credited) |
@@ -43,7 +43,7 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | K4 | Seller-paid EV battery certificate (Israel) | 5 | 40.2 | Techno Test already checks batteries |
 | K9 | GSPro course studio | 5 | 39.8 | |
 | J12 | EU 72-hour preparedness kits | 4 | 39.0 | |
-| H2 | Crowd Supply revival boards | 3 | 38.6 | |
+| H2 | Crowd Supply revival boards | 3 | 41.2* | P8: from 38.6 (spending +1, first customers +1; MiciMike $133k raise). No orphaned target device (Bose published local API) |
 | K11 | Old-handwriting transcription for genealogists | 5 | 38.4 | |
 | K5 | Overnight court-transcript production | 5 | 38.0 | |
 | K7 | Boat charter co-hosting | 5 | 37.2 | |
@@ -71,8 +71,8 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 ### Phase 7 scored ideas
 | ID | Idea | Phase | Adjusted | Status / key evidence |
 |---|---|---|---|---|
-| M1 | Sage 50 US/CA integration API (Conductor model) | 7 | 52.0 | Conductor $42k MRR verified; no self-serve Sage 50 US/CA API; small market; Sage resale terms unknown |
-| M2 | Licensed niche data API (dataset TBD) | 7 | 44.4 | Pattern only; SoldComps scrapes eBay |
+| M1 | Sage 50 US/CA integration API (Conductor model) | 7 | 49.6* | P8: from 52.0 (depth 2→1, proven channel 2→1): vertical-SaaS ratio 0.12; Conductor n=1 on TrustMRR; 3 QuickBooks Desktop clones in 2026. Sage resale terms unknown |
+| M2 | Licensed niche data API (dataset TBD) | 7 | 44.4 | Pattern only; SoldComps scrapes eBay (P8: $21.6k MRR, against eBay's 2026 User Agreement; held) |
 | M12 | Israeli Shopify launch/migration studio | 7 | 44.0 | Measured directory newcomer flow; services (cash bridge only) |
 | M10 | US technology advisor under master agent | 7 | 43.8 | No newcomer data; eligibility unknown |
 | M3 | German §20 prevention courses in non-German languages | 7 | 39.6 | One-off refunds; course-leader labour |
@@ -83,6 +83,24 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 | M11 | Payments-residual agent | 7 | 32.0 | Stripe Connect disintermediates |
 | M6 | Per-location souvenir wholesale lines | 7 | 28.4 | Killed |
 | M7 | Creator presale merch | 7 | 21.8 | Killed |
+
+### Phase 8 scored ideas
+| ID | Idea | Phase | Adjusted | Status / key evidence |
+|---|---|---|---|---|
+| N12 | Recurring Google Merchant Center monitor for WooCommerce stores and agencies | 8 | 48.0 | Shopify analogue $14.7k MRR (flat, for sale at 0.9×); 4 WP.org entrants with 0–30 installs |
+| N1 | German food-hygiene certificate (employer remainder) | 8 | 45.9 | Killed as specified: §43(1) IfSG reserves the initial briefing to the Gesundheitsamt; employer training has 20+ online sellers at €29–35 |
+| N9 | QR guest photo-sharing in an under-served language | 8 | 45.0 | German comparable $549k all-time, strongly seasonal; 141–151 app entrants since 2024 |
+| N11 | Salon review add-on (Booksy remainder) | 8 | 44.0 | Fresha route killed (native Google Rating Boost; partner terms); Booksy API alpha and partner-gated |
+| N3 | CONTPAQi self-serve integration API (variants TallyPrime, Sage Pastel) | 8 | 43.6 | AR Software sells a $720/yr cloud API; Bind built its own; SDK terms unknown |
+| N7 | Trend-timed collectible value-scanner micro-studio | 8 | 43.5 | Studios clone booms within months; eBay bans scraping |
+| N8 | Prediction-market research/alert companion | 8 | 42.2 | 224 companion apps since 2025; 3 have >100 ratings; Kalshi terms unread |
+| N2 | Certification study kits via paid social | 8 | 42.2 | EF #94286 co-broker; profit fell to ~$11.7k/mo (11% margin) |
+| N10 | Hebrew copy of a proven AI consumer app | 8 | 41.3 | Hebrew calorie category already occupied by 4 apps |
+| N4 | German human-plus-AI STR guest-messaging desk | 8 | 41.2 | EF #86244 volatile; Smoobu ships native AI replies |
+| N14 | Amateur padel/beach-tennis/darts organiser apps outside US | 8 | 37.1 | 0 of 162 BR 2025+ apps have ≥100 ratings |
+| N5 | Local-language Meta-ads store in a small EU market | 8 | 35.4 | Czech comparable lost money Feb–May 2026; capital and fit |
+| N6 | Firmware-first tool on Crowd Supply via manufacturer partner | 8 | 34.9 | Channel verified; hardware lead time and fit |
+| N13 | Connector supplier to unified-API aggregators | 8 | 30.2 | Killed: no aggregator licenses outside connectors |
 
 ## Investigated but not scored on the frozen rubric (exclusions)
 **Phase 1:** customs-broker document extraction; insurance commission reconciliation; monday.com setups; security questionnaires; website/mobile accessibility (IS 5568, EAA); Zapier→n8n migration; Amendment 13 privacy kits; app-store age-signal SDK; Peppol connectors; shelter/safe-room renovation; solar tariff-deadline brokerage; olim foreign-asset disclosure; CBAM data packs; war-damage claims; Hebrew import labelling; vaad-bayit apps; EUDR; foreign construction-worker services.
@@ -98,3 +116,5 @@ Purpose: avoid re-investigating ideas. An idea listed here may only be resubmitt
 **Phase 6:** MPU prep (Germany); paid flight-deal alerts outside the US; US marriage name-change kits; life-event paid communities (pregnancy, postpartum, baby sleep, grief); Mexican US-visa help; faceless Substack newsletters; Brazil infoproducts; DTF/sublimation consumables (Israel); dental/jewellery resin; winemaking/brewing inputs; café cleaning supplies; lab consumables; clinic hygiene supplies; light-consumable import arbitrage; first distributor in CEE/LatAm; tattoo supplies; remote booking agency for independent instructors; senior-living placement; buying lead-gen sites; Hebrew lead-gen; buying offline businesses with seller financing; PI/Medicare/moving leads; Bark/Thumbtack clones; Israeli lawyer referral fees; grease-trap/septic reporting; UK driving-instructor app; German driving-school admin; appraisal forms; microschool software; FFL records; funeral-home software; flight-school scheduling; tester-side backflow apps; new-licensee lead lists; association career centres; public-sector award digests; language-community city media; employer-paid niche job boards; Israeli government procurement; AppSumo; indie-maker ad slots; generic affiliate/reseller programmes; aged micro-SaaS acquisition; newsletter acquisition; board-game localisation licences; AI translation rights; web-checkout uplift on acquired apps; AI-crawler licensing; sub-$50k SEO/affiliate sites.
 
 **Phase 7:** Israel Gefen programme catalogue; HSA/FSA eligibility (Truemed); employee perks portals; creator revenue-share app building; library e-resources; bank/card offers; telco bundles; DiGA; furusato nozei; student discount platforms; Israeli meal/perks networks; employee spending accounts; corporate gifting platforms; pet-memorial keepsakes via vets; club merch stores outside US; generic POD Faire brand; US school spirit wear; UK school art fundraisers; private-label practitioner supplements; trade-show launches; Israeli corporate holiday gifts; profession-themed paper goods; franchisor operations tools; Do it Best Open Buying Day product lines; insurance-agency alliance tech; vet group partners; kibbutz software via Mishkei; Mashcal municipal supply; DSO/dental buying groups; insurer claims networks; franchisee software; single-country fiscal/e-invoicing APIs (Spain Verifactu etc.); German e-invoice API; dental/vet PMS bridges; white-label agency tools; bank calculators; accounting-firm-deployed tools; Odoo App Store modules; Israeli Odoo compliance; Odoo Ready partner; Tiendanube partner; Pax8 vendor; Telarus supplier; buying Shopify rev-share books; accountant referral deals; Shopify partner in Germany; residual-book purchases; reverse licensing of dormant brands; UK/EU commission agent; classic manufacturer's rep; Instant Checkout supplier; MCP/AI-agent supplier; art licensing agency.
+
+**Phase 8:** cruise price-drop monitor; Slant 3D made-to-order hobby tools; niche paid-ads agency (med spas); Spanish/Italian phone-prospecting data (GDPR); Thumbtack lead auto-responders; Upwork proposal automation; country-specific business-owner lead data; file-version downgrade tools (SketchUp/ArchiCAD/Revit); vending-placement directories; hosted OpenClaw wrappers; generic AI ads/SEO agents; DATEV/Hashavshevet/construction-system APIs; Fresha integration API (terms); non-US betting-tips apps; developer-tool mobile companions; H2 revival boards for Bose SoundTouch/Wemo (no orphaned gap).

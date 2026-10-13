@@ -39,3 +39,6 @@ Desk research only. No contacting prospects or customers, no purchases, no ads, 
 - WebSearch quota is session-wide, finite and refills unpredictably. Per-phase caps per agent; shared log at `research-notes/search-log.txt` (one line per search) to avoid duplicates across agents and phases.
 - Prefer WebFetch of primary pages and public JSON APIs (iTunes Search API, Apify Store API, Gumroad search JSON, JetBrains Marketplace API, Shopify `products.json`, etc.).
 - Reddit, Etsy, eBay, Fiverr, Kickstarter, Walmart, Amazon often block automated fetching; report blocked sources rather than infer.
+
+## Reconciliation rule (from Phase 8)
+The evidence auditor and the red team score every new idea independently at criterion level. The final score for a new idea is the mean of the two reviewers' CF, Scal, Dist and penalty. With two reviewers this is the median. Half-steps are allowed, and every final score lies between the two reviewers' scores. Leader corrections are applied only as named criterion steps; dissents are recorded.
